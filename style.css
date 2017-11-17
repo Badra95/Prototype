@@ -16,6 +16,9 @@ header {
 .fa {
   color: #3FB97C;
   margin-top: 15px;
+  border: 1px solid #3FB97C;
+  padding: 20px;
+  border-radius: 50%;
 }
 
 .fa-bars {
