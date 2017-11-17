@@ -35,7 +35,11 @@ header {
 
 .wrap {
   height: 70vh;
-  background-color: grey;
+  background-image: url(img/young.jpg);
+  background-position: center center;
+  background-size: cover;
+  /*background-color: white;
+  border: 1px solid black;*/
 }
 
 /*.atelier {
@@ -50,9 +54,9 @@ header {
 .icone {
   border-radius: 50%;
   background-color: inherit;
-  border: 3px solid snow;
-  width: 80px;
-  height: 80px;
+  border: 1px solid black;
+  width: 90px;
+  height: 90px;
   display: inline-block;
 }
 
@@ -79,9 +83,10 @@ h2 {
 
 footer {
   text-align: center;
-  background-color: lightgrey;
-  padding: 20px;
-  margin-top: 5px;
+  background-color: #3FB97C;
+  padding: 5px;
+  margin-top: 20px;
+  color: white;
   font-family: cursive;
 }
 
