@@ -13,12 +13,18 @@ header {
   position: relative;
 }
 
-.fa {
+.ba {
   color: #3FB97C;
   margin-top: 15px;
   border: 1px solid #3FB97C;
   padding: 20px;
   border-radius: 50%;
+}
+
+.wrap .fa {
+padding: 25px;
+color: white;
+
 }
 
 .fa-bars {
@@ -56,10 +62,10 @@ header {
 
 .icone {
   border-radius: 50%;
-  background-color: inherit;
-  border: 1px solid black;
-  width: 90px;
-  height: 90px;
+  background-color: #3FB97C;;
+  /*border: 1px solid black;*/
+  /*width: 90px;
+  height: 90px;*/
   display: inline-block;
 }
 
